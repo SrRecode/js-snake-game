@@ -1,0 +1,13 @@
+{
+  "name": "js-snake-game",
+  "version": "1.0.0",
+  "description": "Classic Snake game on a canvas with testable game logic",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test",
+    "start": "npx --yes serve ."
+  },
+  "keywords": ["snake", "canvas", "game", "vanilla-javascript"],
+  "license": "MIT"
+}
